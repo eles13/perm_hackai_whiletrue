@@ -1,0 +1,11 @@
+pip
+flask
+bs4
+certifi
+requests
+lxml
+selenium
+pandas
+numpy
+transformers
+json2html
